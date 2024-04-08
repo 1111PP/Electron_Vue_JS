@@ -1,29 +1,11 @@
-# electron-app
+# electron模板
+#手动定义electron插件，完成electron的自动运行以及打包
+#无须额外启动端口运行electron进程，运行项目以及build时，会自动执行electron的运行以及打包
+##快速生成
+1.开发环境下electron配置
+2.打包构建electron应用，生成安装包
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+#运行步骤
+1.npm install
+2.npm run dev 
+3.npm run build
