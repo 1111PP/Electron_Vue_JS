@@ -1,6 +1,6 @@
 # electron模板
 # 手动定义electron插件，完成electron的自动运行以及打包
-# 无须额外启动端口运行electron进程，运行项目以及build时，会自动执行electron的运行以及打包
+ 无须额外启动端口运行electron进程，运行项目以及build时，会自动执行electron的运行以及打包
 ## 快速生成
 1.开发环境下electron配置
 2.打包构建electron应用，生成安装包
