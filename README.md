@@ -15,3 +15,6 @@
 # 常见错误
 若报错：找不到模块electron/electron-builder或其他响应的类型声明
 可尝试再次安装依赖包：npm install electron electron-builder -D
+
+# 更多详细配置请查看electron官网
+https://www.electronjs.org/zh/docs/latest/
