@@ -11,3 +11,7 @@
 2.npm run dev 
 
 3.npm run build
+
+# 常见错误
+若报错：找不到模块electron/electron-builder或其他响应的类型声明
+可尝试再次安装依赖包：npm install electron electron-builder -D
